@@ -19,10 +19,6 @@ The main packages used are numpy, pandas, matplotlib, seaborn and sklearn.
 ## Deployemnt :
 The web app has been build using basic HTML, CSS, Javascript, Flask and Herkou.
 
-Link: https://bangalore-house-pricing.herokuapp.com/
-
-
-![ML](Screenshots/BangaloreHousePricePredictionHeroku.JPG)
 
 ## Future Scope :
 * Use multiple Algorithms
