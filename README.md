@@ -1,5 +1,4 @@
 # Banglore-House-Price-Prediction-Project
-# Bangalore-Housing-Price-Prediction
 
 ![ML](https://img.shields.io/badge/ML-Regression-blue.svg) 
 
